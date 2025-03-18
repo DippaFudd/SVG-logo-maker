@@ -89,6 +89,10 @@ An example of the SVG logo generated with the following inputs:
 Would result in a green circle with white "SVG" text inside.
 
 ## Screenshot and Screen Recording
+![Image Alt](https://github.com/DippaFudd/SVG-logo-maker/blob/962429cc895870a53b5eec32418c9836be755e59/2025-03-17%20(2).png)
+
+Video link :
+https://app.screencastify.com/v3/watch/QXe2hjsKKd3j6N5rVNRc
 
 
 
